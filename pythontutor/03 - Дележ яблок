@@ -1,0 +1,7 @@
+# Число n можно считать так:
+n = int(input())
+k = int(input())
+a = k // n
+m = (k % n )
+print(a)
+print(m)
