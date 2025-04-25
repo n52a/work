@@ -1,0 +1,8 @@
+a = int(input())
+s = int(input())
+d = int(input())
+f = int(input())
+if a == d or s == f:
+    print('YES')
+else:
+    print('NO')
