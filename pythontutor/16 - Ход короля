@@ -1,0 +1,6 @@
+a1, b1 = int(input()), int(input())
+a2, b2 = int(input()), int(input())
+if (a2 - 1 <= a1 <= a2 + 1) and (b2 -1 <= b1 <= b2 +1):
+    print('YES')
+else:
+    print('NO')
